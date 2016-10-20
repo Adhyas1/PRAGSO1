@@ -16,7 +16,7 @@ Staffs:
    rashmi
    sadhana
    meghana
-   surya
+   
 
 
 
@@ -36,22 +36,22 @@ More Information:
 Adress:
 =======
 
-#239,Ammaji Complex,
+#585, Venkatesha building,10th cross, 16th main
 
 .. toctree::
    :maxdepth: 5
 
-Gurudatta Layout,
+Gururaja Layout,
 
 .. toctree::
    :maxdepth: 5
 
-Hoskerehalli, BSK 3rd Stage,
+Padmanabhanagar,
 
 .. toctree::
    :maxdepth: 5
 
-Bengaluru - 560085   
+Bengaluru - 560070   
    
 
 
